@@ -36,10 +36,10 @@ The File Organizer is a desktop tool that scans a chosen folder and organizes fi
 - The script moves files (not copies). Make backups if needed before running on important folders.
 - The undo feature reverts only the last run recorded in `.organizer_log.json`.
 
-### GUI Window  
+### Unorganized File 
 ![GUI Window](python1.jpg)  
 
-### Organized Files Example  
+### File Count
 ![Files Count](python2.png)
 
 ### Final Organized Files
