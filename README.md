@@ -39,7 +39,8 @@ The File Organizer is a desktop tool that scans a chosen folder and organizes fi
 ### GUI Window  
 ![GUI Window](python1.jpg)  
 
-
 ### Organized Files Example  
 ![Files Count](python2.png)
+
+### Final Organized Files
 ![Organized Files](python3.jpg) 
