@@ -37,7 +37,9 @@ The File Organizer is a desktop tool that scans a chosen folder and organizes fi
 - The undo feature reverts only the last run recorded in `.organizer_log.json`.
 
 ### GUI Window  
-![GUI Window](images/gui.png)  
+![GUI Window](python1.jpg)  
+
 
 ### Organized Files Example  
-![Organized Files](images/organized_files.png) 
+![Files count](python2.jpg)
+![Organized Files](python3.jpg) 
